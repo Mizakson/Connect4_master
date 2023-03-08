@@ -1,0 +1,16 @@
+Some possible updates...
+
+Add an AI option so you can play against the computer
+    - ML Model?, Design AI class and AI logic class
+
+Add a scoreboard option
+    - database connectivity
+
+Create a web application using flask
+    - instead of running the game as a terminal program
+    - add web application connectivity
+
+Create an account system
+    - account creation
+    - account login
+    - account authentication
