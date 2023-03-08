@@ -1,10 +1,6 @@
-# i want to make a connect 4 game using python
 """
 Connect 4 Game V1.0
-
 This is a simple connect 4 game made using python, pygame and numpy.
-Version Notes:
-    - CLI version
 
 """
 # import modules
